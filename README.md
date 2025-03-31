@@ -1,7 +1,7 @@
 # 2048 Game
 
 A modern implementation of the classic 2048 game using Python and Pygame.
-
+![2048](2048.png)
 ## Features
 - Smooth animations
 - Modern color scheme
